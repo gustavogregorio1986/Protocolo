@@ -1,0 +1,17 @@
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocloAPI.Servico\bin\Debug\net5.0\ProtocloAPI.Servico.deps.json
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocloAPI.Servico\bin\Debug\net5.0\ProtocloAPI.Servico.dll
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocloAPI.Servico\bin\Debug\net5.0\ProtocloAPI.Servico.pdb
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocloAPI.Servico\bin\Debug\net5.0\ProtocoloAPI.Data.dll
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocloAPI.Servico\bin\Debug\net5.0\ProtocoloAPI.Dominio.dll
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocloAPI.Servico\bin\Debug\net5.0\ProtocoloAPI.Data.pdb
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocloAPI.Servico\bin\Debug\net5.0\ProtocoloAPI.Dominio.pdb
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocloAPI.Servico\obj\Debug\net5.0\ProtocloAPI.Servico.csproj.AssemblyReference.cache
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocloAPI.Servico\obj\Debug\net5.0\ProtocloAPI.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocloAPI.Servico\obj\Debug\net5.0\ProtocloAPI.Servico.AssemblyInfoInputs.cache
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocloAPI.Servico\obj\Debug\net5.0\ProtocloAPI.Servico.AssemblyInfo.cs
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocloAPI.Servico\obj\Debug\net5.0\ProtocloAPI.Servico.csproj.CoreCompileInputs.cache
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocloAPI.Servico\obj\Debug\net5.0\ProtocloAPI.Servico.csproj.CopyComplete
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocloAPI.Servico\obj\Debug\net5.0\ProtocloAPI.Servico.dll
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocloAPI.Servico\obj\Debug\net5.0\refint\ProtocloAPI.Servico.dll
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocloAPI.Servico\obj\Debug\net5.0\ProtocloAPI.Servico.pdb
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocloAPI.Servico\obj\Debug\net5.0\ref\ProtocloAPI.Servico.dll

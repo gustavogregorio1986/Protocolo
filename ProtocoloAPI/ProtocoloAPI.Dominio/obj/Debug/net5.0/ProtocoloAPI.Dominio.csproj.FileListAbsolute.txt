@@ -1,0 +1,12 @@
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocoloAPI.Dominio\bin\Debug\net5.0\ProtocoloAPI.Dominio.deps.json
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocoloAPI.Dominio\bin\Debug\net5.0\ProtocoloAPI.Dominio.dll
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocoloAPI.Dominio\bin\Debug\net5.0\ProtocoloAPI.Dominio.pdb
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocoloAPI.Dominio\obj\Debug\net5.0\ProtocoloAPI.Dominio.csproj.AssemblyReference.cache
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocoloAPI.Dominio\obj\Debug\net5.0\ProtocoloAPI.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocoloAPI.Dominio\obj\Debug\net5.0\ProtocoloAPI.Dominio.AssemblyInfoInputs.cache
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocoloAPI.Dominio\obj\Debug\net5.0\ProtocoloAPI.Dominio.AssemblyInfo.cs
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocoloAPI.Dominio\obj\Debug\net5.0\ProtocoloAPI.Dominio.csproj.CoreCompileInputs.cache
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocoloAPI.Dominio\obj\Debug\net5.0\ProtocoloAPI.Dominio.dll
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocoloAPI.Dominio\obj\Debug\net5.0\refint\ProtocoloAPI.Dominio.dll
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocoloAPI.Dominio\obj\Debug\net5.0\ProtocoloAPI.Dominio.pdb
+C:\Protocolo\ProtocoloAPI\ProtocoloAPI\ProtocoloAPI.Dominio\obj\Debug\net5.0\ref\ProtocoloAPI.Dominio.dll
