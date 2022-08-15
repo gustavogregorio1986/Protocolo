@@ -10,6 +10,12 @@ namespace ProtocoloAPI.Data.Contexto
 {
     public class ProtocloAPIContexto : DbContext
     {
+
+        public ProtocloAPIContexto()
+        {
+
+        }
+
         public ProtocloAPIContexto(DbContextOptions option)
             : base(option)
         {
