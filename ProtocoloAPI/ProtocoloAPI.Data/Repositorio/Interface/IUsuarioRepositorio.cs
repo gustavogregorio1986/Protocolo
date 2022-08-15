@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ProtocoloAPI.Data.Repositorio.Interface
 {
-    public interface IProtocoloRepositorio : IGenericRepositorio<Protocolo>
+    public interface IUsuarioRepositorio : IGenericRepositorio<Usuario>
     {
     }
 }

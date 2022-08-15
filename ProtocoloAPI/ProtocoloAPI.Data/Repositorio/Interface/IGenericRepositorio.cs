@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ProtocoloAPI.Data.Repositorio.Interface
 {
-    public interface IIGenericRepositorio<T> where T : class
+    public interface IGenericRepositorio<T> where T : class
     {
         void Adicionar(T entidade);
 
